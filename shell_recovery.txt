@@ -1,0 +1,2 @@
+adb shell reboot recovery
+adb shell twrp install AFTV-MM-v2.2.zip
